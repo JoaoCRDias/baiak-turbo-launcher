@@ -39,7 +39,7 @@ namespace CanaryLauncherUpdate
 		{
 			string launcherPath = "";
 			if (string.IsNullOrEmpty(clientConfig.clientFolder) || onlyBaseDirectory) {
-				launcherPath = AppDomain.CurrentDomain.BaseDirectory.ToString() + "/BaiakTurboClient";
+				launcherPath = AppDomain.CurrentDomain.BaseDirectory.ToString();
 			} else {
 				launcherPath = AppDomain.CurrentDomain.BaseDirectory.ToString() + "/" + clientConfig.clientFolder;
 			}
