@@ -15,5 +15,5 @@
 	],
 	"clientFolder": "",
 	"newClientUrl" : "https://github.com/JoaoCRDias/baiak-turbo-launcher/releases/download/1.1/BaiakTurboClient.zip",
-	"clientExecutable": "BaiakTurboClient/bin/client.exe"
+	"clientExecutable": "client.exe"
 }
