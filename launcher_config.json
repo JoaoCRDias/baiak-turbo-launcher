@@ -1,19 +1,19 @@
 {
-	"clientVersion": "1.2",
-	"launcherVersion": "1.1",
-	"replaceFolders": true,
-	"replaceFolderName": [
-		{
-			"name": "assets"
-		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
-		}
-	],
-	"clientFolder": "BaiakTurboClient",
-	"newClientUrl" : "https://github.com/JoaoCRDias/baiak-turbo-launcher/releases/download/1.2/BaiakTurboClient.zip",
-	"clientExecutable": "client.exe"
+  "clientVersion": "1.3",
+  "launcherVersion": "1.1",
+  "replaceFolders": true,
+  "replaceFolderName": [
+    {
+      "name": "assets"
+    },
+    {
+      "name": "storeimages"
+    },
+    {
+      "name": "bin"
+    }
+  ],
+  "clientFolder": "BaiakTurboClient",
+  "newClientUrl": "https://github.com/JoaoCRDias/baiak-turbo-launcher/releases/download/1.2/BaiakTurboClient.zip",
+  "clientExecutable": "client.exe"
 }
